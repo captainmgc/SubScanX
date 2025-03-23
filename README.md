@@ -1,8 +1,8 @@
 # SubScanx GUI
 
-Modern PyQt5-based GUI for SubScanx, a powerful tool that discovers subdomains by querying Certificate Transparency (CT) logs. With a sleek and responsive design, SubScanx GUI makes it easier than ever to uncover hidden subdomains.
+![SubScanx Logo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfaYeg38h2SPabwL7mqV1WV7vNIVLLIID35UZa7D_88EIVdSUpD0zvVuLC-9osQzshs9sQh_carpBbsazerRjHa5rxX-wqmi3VoYT4uq86hvkDgz9-_-5eKMXdo-zh5Z3vnPhAi1oFtGB7zjS2EzjexSVBRU4Tw9AaeCEDWGes6UPYCZabRcDxlwOQf0o/s16000/Gemini_Generated_Image_ln2g0eln2g0eln2g.jpg)
 
-![SubScanx GUI Screenshot](https://via.placeholder.com/800x500?text=SubScanx+GUI)
+Modern PyQt5-based GUI for SubScanx, a powerful tool that discovers subdomains by querying Certificate Transparency (CT) logs. With a sleek and responsive design, SubScanx GUI makes it easier than ever to uncover hidden subdomains.
 
 ---
 
@@ -49,8 +49,8 @@ Modern PyQt5-based GUI for SubScanx, a powerful tool that discovers subdomains b
 ### Setup
 ```bash
 # Clone the repository
-git clone https://github.com/captainmgc/subscanx-gui.git
-cd subscanx-gui
+git clone https://github.com/captainmgc/SubScanX.git
+cd SubScanX
 
 # Install dependencies
 pip install -r requirements.txt
@@ -76,9 +76,11 @@ python subscanx-gui.py
 
 ## 🖼 Screenshots
 
-![Main Interface](https://via.placeholder.com/800x200?text=Main+Interface)
-![Results View](https://via.placeholder.com/800x200?text=Results+View)
-![Export Options](https://via.placeholder.com/800x200?text=Export+Options)
+![Main Interface](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPWDqCs4hZ5l-4KNR7iMU8_A20_E3X2EZwZY10HCf1Z8QhMP-i5bPOzXEc0XphYnyidEI9E8NFk4I4brnEFGssgOCQSWP8oLzc0smVuEmwiMZtkJpmVKr0KmxVkrQdSJfE8S2zeF2OEkjekoQJqB76pmgcCUtAOePMKgGpLGYGqL5wgHbQp0Jdg8X3Ynk/s16000/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-23%20154515.png)
+
+![Results View](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidrpoNr7ImRCjM4AvDdPlXQj9IpLALHTLfpsTCZwIKxcmKkR5w1Ye6pKEwjsKNDqSYECRCBseAjwNdocPk74I4BQG2-VLR8tfzi8ok_J8W9FRfV-Ksug9TVqJ4tLVp72R1l0AtZ66gcVpeARpaXfi57YUWWJOo6WuVdNtMUjix3NGr24g6xfqMODjYngo/s16000/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-23%20154552.png)
+
+![Export Options](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM2EwDVnoceNGkdxwyTRMaVd_OQvGPTL1eBv6-x3yZZSg_E-eId4h1V3TatmkImwUD2hSv3ZV8QMdN8gmUpCys9aB0cy7CvAKZFzYCjvMiePVHol6RPNcl2nC__lLvDNr4QwuguRIMQgCRyQYAYuYNsanN9tpOww9jKSFjfZQeg4llawp2hvrWNWuG3AY/s16000/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-23%20154628.png)
 
 ---
 
